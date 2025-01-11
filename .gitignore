@@ -4,3 +4,10 @@
 __pycache__/
 *.pyc
 .env
+
+#временные исключения
+client-back-rabbit-auth/client/node_modules
+client-back-rabbit-auth/client/public
+client-back-rabbit-auth/client/package-lock.json
+client-back-rabbit-auth/client/package.json
+client-back-rabbit-auth/client/README.md
